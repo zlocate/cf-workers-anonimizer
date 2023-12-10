@@ -10,3 +10,4 @@ node_modules/
 wrangler.toml
 dist/
 .DS_store
+.wrangler
